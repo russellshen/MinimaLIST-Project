@@ -7,6 +7,7 @@ diverges into four paths as the concrete particular application of the MinimaLIS
 to each of my 4 intellectual domains.
 - The commit history on all public branches will be the backward-facing philological
 documentation of the project's progress.
+- There is also a shared Afterword because all paths converge on the same culminating insight.
 
 # Starting Links to the Main Intended Traversals of the Modular MinimaLIST Project
 
