@@ -7,6 +7,10 @@ They are preserved primarily for **timestamping**, **IP provenance**, and **hist
 - [2025-09-11 – Basic Introduction: Who I Am and What I Do](./2025-09-11-basic-introduction.html)
 - [2025-10-14 – Heads up on MinimaLIST Project Rebasing](./2025-10-14-heads-up.html)
 
+Please download the .html file and open it in your browser, because GitHub
+does not render .html files as the intended webpage but instead as the raw
+HTML/CSS markup language.
+
 In the future, I may also add my ChatGPT chat logs in this folder since all
 of my "laboratory notebook work" is consolidated on there. The same reasons
 for preservation also apply. I have not yet decided whether to redact
