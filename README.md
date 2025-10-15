@@ -1,7 +1,10 @@
 # MinimaLIST-Project
-The MinimaLIST Approach to Life and Understanding Reality: Once a book project but now a series of interlinked article-modules to explain
-the MinimaLIST approach and then apply it to 4 concrete domains in which I am experienced and uncover truths that were infeasible or
-impossible to access before applying the MinimaLIST method to them.
+The MinimaLIST Approach to Life and Understanding Reality:
+- Once a book project but now a series of interlinked article-modules hosted as a GitHub repository.
+- The final goal is to concisely explain the MinimaLIST approach and then apply it to 4 concrete domains
+in which I am experienced.
+- I aim to uncover truths that were infeasible or impossible to access before applying the MinimaLIST
+method to them.
 
 ## Appendix
 Archived Medium articles (and in the future, ChatGPT chat logs) can be found in the [`/appendix`](./appendix) folder for the sake of documentation.
