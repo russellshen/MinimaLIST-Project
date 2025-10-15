@@ -19,7 +19,12 @@ an isomorphic relationship between them and X-bar syntax trees from linguistics.
 kind of tool to aid translation between human languages by preserving their shared semantics.
 
 ## Appendix
-Archived Medium articles (and in the future, ChatGPT chat logs) can be found in the [`/appendix`](./appendix) folder for the sake of documentation.
+
+**Medium:**
+- Archived Medium articles (and in the future, ChatGPT chat logs) can be found in the [`/appendix`](./appendix) folder for the sake of documentation.
+
+**Miscellaneous Older Writings:**
+- So will many of my pre-MinimaLIST writings be documented and archived under [`/appendix`](./appendix).
 
 ## License
 
