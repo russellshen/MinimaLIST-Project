@@ -5,6 +5,12 @@
 in which I am experienced.
 - I aim to uncover truths that were infeasible or impossible to access before applying the MinimaLIST
 method to them.
+- The general MinimaLIST heuristic abstraction takes on a more developed and domain-specific practical
+form for each of the 4 areas of interest in my MinimaLIST project.
+- I treat it as a universal method but I will not prove that outside of the bounds of my 4 chosen
+academic fields intended to demonstrate its validity, such that you will have to infer from 4
+concrete particulars with a limited and demarcated scope to a universal abstract principle just like
+I did when formulating it.
 - My flagship product of the MinimaLIST approach to the formal sciences is called EngLISP, an intermediate
 language that is the overlap between English as a natural language and Lisp as a programming language.
 - It represents the underlying semantics of all natural languages in Lisp S-expressions by enforcing
