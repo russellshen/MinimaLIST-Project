@@ -5,6 +5,8 @@
 starting from a shared Preface explaining the general MinimaLIST method that at the end
 diverges into four paths as the concrete particular application of the MinimaLIST approach
 to each of my 4 intellectual domains.
+- The commit history on all public branches will be the philological documentation of the
+project's progress.
 
 # Starting Links to the Main Intended Traversals of the Modular MinimaLIST Project
 
