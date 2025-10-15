@@ -14,4 +14,4 @@ sensitive personal ChatGPT conversations or not, since it balances
 intellectual honesty with privacy.
 
 These are **not** the living version of the MinimaLIST or EngLISP ideas.  
-The evolving canonical modules are under [`/modules`](./modules).
+The evolving canonical modules are under [`/modules`](../modules).
