@@ -1,5 +1,5 @@
 # MinimaLIST-Project
-The MinimaLIST Approach to Life and Understanding Reality:
+**The MinimaLIST Approach to Life and Understanding Reality:**
 - Once a book project but now a series of interlinked article-modules hosted as a GitHub repository.
 - The final goal is to concisely explain the MinimaLIST approach and then apply it to 4 concrete domains
 in which I am experienced.
