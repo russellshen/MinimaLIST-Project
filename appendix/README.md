@@ -11,6 +11,20 @@ Please download the .html file and open it in your browser, because GitHub
 does not render .html files as the intended webpage but instead as the raw
 HTML/CSS markup language.
 
+I forgot to name-drop the **Curry-Howard correspondence** in the Basic
+Introduction Medium article but it essentially produces an isomorphism
+between proofs and algorithms, which helps substantiate the computational
+formal infrastructure propping up EngLISP, because EngLISP acts as an
+interface between natural language text which when rigorous becomes like
+a proof, and that proof has a one-to-one correspondence with a computer
+program, i.e., Lisp in this case. The Curry-Howard correspondence hence
+bolsters and justifies my intermediate language representation by providing
+some theoretical guarantees of this one-to-one mapping between idealized
+natural language and computational programs.
+
+Yet I cannot change the archived articles anymore, so I am name-dropping
+it here.
+
 Additionally, I added 2 essays I wrote in June 2025 which predate the
 MinimaLIST project but are a good window to my conception and misconception
 of Marxist theory at that time. I have a more sophisticated understanding
