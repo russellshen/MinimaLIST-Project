@@ -36,14 +36,15 @@ Created by Russell Shen
 - The final goal is to concisely explain the **MinimaLIST** approach in a ["Preface"](./modules/preface.md)
   article-module, and then diverge to apply it to 4 concrete domains in which I have experience and novel
   contributions:
-  - The formal sciences (mathematics, computer science, statistics, artificial intelligence, machine
-    learning, natural language processing, data science, etc., which on paper is my primary field of
-    inquiry in academia),
-  - Neuroscience (including CNS pharmacology and cognitive psychology, with an emphasis on the
-    pharmacodynamics (PD) and pharmacokinetics (PK) of psychoactive drugs, a stigmatized subject, so
-    I usually just say "neuroscience" as a euphemism),
-  - The critique of political economy (which is a euphemism for Marxist theory), and
-  - Life planning (which is a euphemism for the "self-help" book genre).
+  - [The formal sciences](./modules/formal-sciences.md) (mathematics, computer science, statistics,
+    artificial intelligence, machine learning, natural language processing, data science, etc., which on
+    paper is my primary field of inquiry in academia),
+  - [Neuroscience](./modules/neuroscience.md) (including CNS pharmacology and cognitive psychology, with
+    an emphasis on the pharmacodynamics (PD) and pharmacokinetics (PK) of psychoactive drugs, a stigmatized
+    subject, so I usually just say "neuroscience" as a euphemism),
+  - [The critique of political economy](./modules/critique-political-economy.md) (which is a euphemism for
+    Marxist theory), and
+  - [Life planning](./modules/life-planning.md) (which is a euphemism for the "self-help" book genre).
 - I aim to uncover truths that were infeasible or impossible to access before applying the **MinimaLIST**
   method to them.
 - These 4 strands then converge at the end into a shared ["Afterword"](./modules/afterword.md) article-module
