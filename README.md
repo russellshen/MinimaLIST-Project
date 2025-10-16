@@ -165,6 +165,11 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   economy to seek out Marx's first draft, filled with a Hegelian philosophical scaffolding and explicit
   methodology that would be dropped later, to trace the development of the categories and their ordering
   within Capital Volumes I-IV.
+- I did not need to do much citation to do this project since the vast majority was original work, and
+  the real life evidence I did built off on is all undisputed common knowledge, like the contents of
+  Marx-Engels Collected Works, basic pharmacological facts, linguistic scientific consensus,
+  established proven formal scientific theorems, etc. I never needed to use others' contributions
+  which are currently considered cutting-edge or hotly disputed.
 
 ## License
 
