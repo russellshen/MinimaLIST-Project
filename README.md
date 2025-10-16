@@ -6,33 +6,48 @@ Created by Russell Shen
 
 **Who am I?**
 - I am a Data Science MS graduate student in California and hold a Computer Science BA from the
-  University of California, Berkeley. I personally do not believe that credentials are that
-  important at all when compared to the actual quality of the evidence provided, but some people
-  care deeply about credentials, so I was 60/40 split on whether to include them or not, and
-  decided to do so reluctantly on the off chance that 25% more people take this project seriously.
-- I came up with this project as a result of many converging life experiences and it is the main
-  "final mission" for me in the intellectual sphere at the moment.
+  University of California, Berkeley.
+  - I personally do not believe that credentials are that important at all when compared to the
+    actual quality of the evidence provided, but some people care deeply about credentials, so I
+    was 60/40 split on whether to include them or not, and decided to do so reluctantly on the
+    off chance that 25% more people take this project seriously.
+  - For everyone else, I would advise you to disregard that I even mentioned my personal
+    professional information at all and evaluate what I write and publish on its own independent
+    merits.
+- I have lived in the California Bay Area for practically the entirety of my life and speak English
+  with what I am told is a very "Bay Area California" accent that I cannot control.
+- I came up with this project as a result of many converging life experiences, and it is the main
+  "final mission" for me in the intellectual sphere at the moment, since it links up everything in
+  my life in an unusually robust way.
 - Who I "really am" is not important at this point in time, but I consider myself to be an
   autodidact and a proposer of novel ideas, whose quality of course varies greatly.
 - Notice how I have not exposed anything more than the bare minimum needed to contextualize my project.
   If there is ever anything that I need to reveal from my personal life to make this project work better,
-  I will do so at the right moment.
+  I will do so at the right moment. For the most part, you need to know practically nothing about my
+  social-biographical history to appreciate the project and those who know me in real life may be
+  stymied from appreciating the project due to inevitable psychological biases. Since the ratio between
+  this and the other is so steep, it is just a potential issue I wanted to explicitly address in this
+  project-level FAQ on the off-chance that it might become relevant.
 
 **What is this project?**
 - It is topically centered around an original heuristic I developed called the **MinimaLIST** method.
 - On the level of format, this was once conceived as a book project but now a series of interlinked
   article-modules hosted as a GitHub repository.
-- The final goal is to concisely explain the **MinimaLIST** approach in a "Preface" article-module,
-  and then diverge to apply it to 4 concrete domains in which I have experience and novel contributions:
+- The final goal is to concisely explain the **MinimaLIST** approach in a ["Preface"](./modules/preface.md)
+  article-module, and then diverge to apply it to 4 concrete domains in which I have experience and novel
+  contributions:
   - The formal sciences (mathematics, computer science, statistics, artificial intelligence, machine
-    learning, natural language processing, data science, etc.),
-  - Neuroscience,
-  - The critique of political economy, and
-  - Life planning.
+    learning, natural language processing, data science, etc., which on paper is my primary field of
+    inquiry in academia),
+  - Neuroscience (including CNS pharmacology and cognitive psychology, with an emphasis on the
+    pharmacodynamics (PD) and pharmacokinetics (PK) of psychoactive drugs, a stigmatized subject, so
+    I usually just say "neuroscience" as a euphemism),
+  - The critique of political economy (which is a euphemism for Marxist theory), and
+  - Life planning (which is a euphemism for the "self-help" book genre).
 - I aim to uncover truths that were infeasible or impossible to access before applying the **MinimaLIST**
   method to them.
-- These 4 strands then converge at the end into a shared "Afterword" article-module that debriefs the
-  picture that my interlinked article-modules have laid out.
+- These 4 strands then converge at the end into a shared ["Afterword"](./modules/afterword.md) article-module
+  that debriefs the picture that my interlinked article-modules have laid out.
 - Instead of one way through the scholarly project or even 4 ways, one for each theoretical discipline,
   there will be significant nonlinearity such that each article-module will have one or more links to
   other article-modules so that the reader can traverse the project however they please.
