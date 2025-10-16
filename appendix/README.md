@@ -1,7 +1,8 @@
-# Appendix – Archived Medium Articles (and in the future, ChatGPT Chat Logs)
+# Appendix – Archived Medium Articles and Unpublished Essays (and in the future, ChatGPT Chat Logs) [README.md]
 
 This folder contains verbatim copies of my original Medium writings.
-They are preserved primarily for **timestamping**, **IP provenance**, and **historical documentation**.
+They are preserved primarily for **timestamping**, **IP provenance**, and
+**historical documentation**.
 
 - [2025-08-31 – A Semantic Proposal to Break the Syntactic Ceiling](./2025-08-31-semantic-proposal.html)
 - [2025-09-11 – Basic Introduction: Who I Am and What I Do](./2025-09-11-basic-introduction.html)
