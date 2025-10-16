@@ -1,6 +1,22 @@
 # MinimaLIST-Project [README.md]
 
+Created by Russell Shen
+
 ## The MinimaLIST Approach to Life and Understanding Reality (Brief FAQ):
+
+**Who am I?**
+- I am a Data Science MS graduate student in California and hold a Computer Science BA from the
+  University of California, Berkeley. I personally do not believe that credentials are that
+  important at all when compared to the actual quality of the evidence provided, but some people
+  care deeply about credentials, so I was 60/40 split on whether to include them or not, and
+  decided to do so reluctantly on the off chance that 25% more people take this project seriously.
+- I came up with this project as a result of many converging life experiences and it is the main
+  "final mission" for me in the intellectual sphere at the moment.
+- Who I "really am" is not important at this point in time, but I consider myself to be an
+  autodidact and a proposer of novel ideas, whose quality of course varies greatly.
+- Notice how I have not exposed anything more than the bare minimum needed to contextualize my project.
+  If there is ever anything that I need to reveal from my personal life to make this project work better,
+  I will do so at the right moment.
 
 **What is this project?**
 - It is topically centered around an original heuristic I developed called the **MinimaLIST** method.
@@ -8,7 +24,8 @@
   article-modules hosted as a GitHub repository.
 - The final goal is to concisely explain the **MinimaLIST** approach in a "Preface" article-module,
   and then diverge to apply it to 4 concrete domains in which I have experience and novel contributions:
-  - The formal sciences,
+  - The formal sciences (mathematics, computer science, statistics, artificial intelligence, machine
+    learning, natural language processing, data science, etc.),
   - Neuroscience,
   - The critique of political economy, and
   - Life planning.
@@ -72,6 +89,9 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   enough and personally insensitive enough to place in this public repository. This is the best
   solution I could think of to reconcile the messiness of real life non-linear research with this
   GitHub platform.
+- Consequently, both the /modules and /appendix folders will be regularly updated moving forward,
+  with forward-facing presentable content in /modules and backward-facing investigational details
+  in /appendix.
 
 **What is my flagship product that demonstrates the provisional soundness of my project?**
 - The flagship product of the **MinimaLIST** approach to the formal sciences is called **EngLISP**, an
@@ -111,9 +131,9 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   the corresponding English passage would imply that return value for anyone who read it and understood
   what it was saying.
 - Note that I have not provided a full qualitative description, quantitative formal grammar, translator
-  that can convert natural language to **EngLISP** and back, or even a cursory fully worked out
+  that can convert natural language to **EngLISP** and back, nor even a cursory fully worked out
   mockup.
-- I have only provided hints to convince you to take this project seriously.
+  - I have only provided hints to convince you to take this project seriously.
 
 **Where did I previously base this project on the public Internet?**
 - I originally hosted this MinimaLIST project on the Medium platform but I realized that GitHub suits
@@ -128,16 +148,17 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
       I used it and rectify it, which is tedious and prone to human error.
     - Modularity is the best way to prevent errors from propagating and isolate processes from each other,
       achieving linkage between modules only on both terms.
-- Consequently, I froze my Medium blog as-is, and ported all of my relevant writings for the project
-  and those immediately preceding this project into the [`/appendix`](./appendix) folder of this
-  repository to serve as a publicly transparent archive, fully documented and with timestamps.
+- Consequently, I froze my [Medium blog](https://medium.com/@russellshen7) as-is, and ported all of my
+  relevant writings for the project and those immediately preceding this project into the
+  [`/appendix`](./appendix) folder of this repository to serve as a publicly transparent archive, fully
+  documented and with timestamps.
   - I mean my forward-facing writings intended for public distribution.
 - I will still keep my Medium profile public since it acts as a timestamp marking the first time
   many of my project-related ideas have been publicly published on the Internet.
 - I might consider using it as a peripheral platform to divert public interest towards this GitHub
-  repository, which will be the central and fully sufficient forward-facing presentation and backward-facing
-  archive of my **MinimaLIST** project. Medium might just be more familiar to non-technical audiences who
-  might get intimidated by GitHub as a platform used to host coding projects.
+  repository, which would then be the central and fully sufficient forward-facing presentation and
+  backward-facing archive of my **MinimaLIST** project. Medium might just be more familiar to
+  non-technical audiences who might get intimidated by GitHub as a platform used to host coding projects.
 - Hence, my Medium profile will just advertise updates made to this GitHub repository instead of hosting its
   own content, which would be redundant, and redundancy defeats the purpose of this project to begin with.
 - For now, since I have yet to produce any article-modules, you will have to read my Medium articles in
