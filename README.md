@@ -136,11 +136,11 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   - I have only provided hints to convince you to take this project seriously.
 
 **Where did I previously base this project on the public Internet?**
-- I originally hosted this MinimaLIST project on the Medium platform but I realized that GitHub suits
-  my requirements better for version control, recursive nested folder organization of article-modules,
-  and my system of interlinked article-modules that allow for more than one canonical traversals of
-  the material I have laid out here, because much of its is modularized and that way I can only
-  explain a concept or make an argument once and simply link to it if I write another article-module
+- I originally hosted this **MinimaLIST** project on the Medium platform but I realized that GitHub suits
+  my requirements better for version control, popular engagement, recursive nested folder organization of
+  article-modules, and my system of interlinked article-modules that allow for more than one canonical
+  traversals of the material I have laid out here, because much of its is modularized and that way I can
+  only explain a concept or make an argument once and simply link to it if I write another article-module
   that has a dependency to it, so that there is no redundancy, there is a single authoritative source
   for each thesis and justification, and I will not have to update a bunch of files when a dependency
   shifts in meaning.
@@ -148,7 +148,7 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
       I used it and rectify it, which is tedious and prone to human error.
     - Modularity is the best way to prevent errors from propagating and isolate processes from each other,
       achieving linkage between modules only on both terms.
-- Consequently, I froze my [Medium blog](https://medium.com/@russellshen7) as-is, and ported all of my
+- Consequently, I froze my [Medium blog](https://www.medium.com/@russellshen7) as-is, and ported all of my
   relevant writings for the project and those immediately preceding this project into the
   [`/appendix`](./appendix) folder of this repository to serve as a publicly transparent archive, fully
   documented and with timestamps.
@@ -191,6 +191,66 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   Marx-Engels Collected Works, basic pharmacological facts, linguistic scientific consensus,
   established proven formal scientific theorems, etc. I never needed to use others' contributions
   which are currently considered cutting-edge or hotly disputed.
+
+**How will public engagement work?**
+- I will eventually implement [Sponsorships](https://www.github.com/sponsors/russellshen) and
+  [Discussions](https://www.github.com/russellshen/MinimaLIST-Project/discussions) when I have time,
+  but sooner rather than later if I have an unanticipated surge in public interest wash over my
+  **MinimaLIST** project, causing many interested readers to miss out on meaningful participation and
+  hence delay or prevent this project from accumulating a meaningful solid core subscriber base.
+- I know that I use a lot of high-level specialist terminology to such a density within sentences with
+  an abundance of clauses that it is nigh-inpenetrable for most readers who are not familiar with the
+  bizarre idiosyncratic mixture of intellectual interests I hold that serve as the scaffolding for me
+  to generate all of these provocative interdisciplinary insights, e.g., **EngLISP**, and glue them
+  together into a unified framework, i.e., the **MinimaLIST** heuristic approach.
+    - However, I will not provide definitions for terminology which I did not coin and for which all of
+      us can refer to the existing academic literature base for the canonical definitions, so that I do not
+      need to introduce redundancies into my project in the sense of repeating what others have said without
+      any originality, me getting the definition wrong and confusing readers, and causing this GitHub repository
+      to be filled with far more unoriginal external-origin redundant "noise" rather than genuinely creative
+      unprecedented "signal", thus creating an unfavorable signal-to-noise ratio. The proportion of the content
+      I host here that is my creative contribution and cannot be found elsewhere on the public Internet under
+      someone else's authorship should be close to 100%.
+    - I do not want to give any impression that I am merely reiterating any other author's thoughts under fuzzy
+      ambiguity in phraseology to make the actual authorship of those thoughts unclear and suggest that I made a
+      contribution that I did not actually make, like someone who has no real contributions of their own but is only
+      a parasitic rent-seeker that rides on the coattails of the real producers and hides this naked exploitation
+      with intellectual dishonesty and outright fraud. One could say that the crux of my social critique is that of
+      rent-seekers.
+    - It is also a big waste of my time to just parrot what is publicly already available
+      when I could be doing something more useful with my time.
+    - I would strongly recommend looking up terms you do not recognize or remember well and the underlying
+      theoretical models that encompass them. Other people would float some weighted combination of the
+      following platforms, but I am personally staying agnostic about it:
+      - [Google Search](https://www.google.com),
+      - [ChatGPT](https://www.chatgpt.com),
+      - [Wikipedia](https://www.wikipedia.org), or
+      - [Library Genesis](404 "Legally, I cannot give you this URL."), and/or their analogous comparator
+        platforms.
+  - I know that I probably come across as blunt or harsh or too direct in my prose within these README.md files
+    and possibly in my actual content files as well, but this is a combination of me valuing cutting out the
+    "bullshit" over being falsely polite, me getting heated with some personally-charged polemics, me being
+    indifferent to this aspect of how the public may evaluate me, and me believing that this project lives and
+    dies on its own content-based merits, not on incredibly superficial softening I could impose to make it
+    seem better than it actually is. In general, you should be very skeptical of those who primarily optimize
+    for superficial first-glance appearances instead of using their valuable time to produce and revise even
+    better content. I am aware of how to sound cordial and professional and when someone else or myself is
+    breaking the unspoken rules of public conduct, but I refuse to tow the line and bring myself closer to
+    the social camp of rent-seekers who garner material and social advantages from manipulating ill-conceived
+    feedback loops in society and skim off the top of what the producers produce, such that the whole of society
+    lives off of the total social product of a smaller subset, with the nonsense in social sciences being about
+    how that distribution is portioned out and ideologically justified. Every act of professional courtesy
+    brings a person one step closer towards social parasitism to garner the product of other people's labor
+    at a greater ratio than the product of their own labor by widening their share of the total social "pie"
+    without adding to that "pie" to a similar or greater degree.
+  - In short, assume that my policy is that I would rather break social conventions to provide you my honest
+    thoughts in an attempt to help you when the invisible walls are blocking others from telling you what
+    you must be told. It simply takes too much time and gives only illusory fleeting benefits to pretend
+    to be nice when there is no love lost between us, you do not know me, I do not know you, and all that
+    I have to go by are your online traces that you leave on this repository's engagement functions. It is
+    also too socially stressful to keep up that active charade or lie, to artfully tiptoe around the
+    elephants in the room and make up even more lies to keep the original charade straight, and then causing
+    exponential explosion in the number of lies to maintain just to save my face or save your face.
 
 ## License
 
