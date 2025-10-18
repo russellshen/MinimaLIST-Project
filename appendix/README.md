@@ -23,8 +23,33 @@ bolsters and justifies my intermediate language representation by providing
 some theoretical guarantees of this one-to-one mapping between idealized
 natural language and computational programs.
 
-Yet I cannot change the archived articles anymore, so I am name-dropping
-it here.
+I also forgot to mention placing creativity and divergent thinking under
+the column for dialectical reasoning, and rigor and convergent thinking
+under the column for metaphysical reasoning. The aim is to show how
+all these computational formal concepts and cognitive scientific mappings
+of human thought fall into one of these 2 buckets that neatly map onto
+the dialectics/metaphysics division in philosophy. This grounds that
+perennial problem in philosophy on top of a rigorous formalism. This
+is referring to the "3rd Floor" section of the experimental part of the
+Basic Introduction Medium article where I descend from EngLISP down the
+chain of formal sciences until it hits rock bottom in the foundational
+model I explain as the 1st (Ground) Floor. EngLISP represents only the
+fourth floor, a fourth-order birds-eye-view introduction to my formalized
+"stack" that descends 4 stories to the Ground Floor while being compelled
+by the drive to ground EngLISP in the simplest and most universal
+axiomatic model possible. You could even consider the MinimaLIST method
+for the formal sciences to be the 5th floor, a still qualitative and casual
+level of analysis that takes on its quantitative and rigorous form when
+it starts probing these difficult complexities of natural language
+processing. EngLISP is the entry point for the portion of my project
+concerned about the formal sciences because it is the most accessible
+layer for pedagogical reasons and for pragmatic reasons due to the recent
+hype concerning LLMs, not because it is the "deepest layer", which it is
+not.
+
+Yet I cannot change the archived articles anymore, so here I am name-dropping
+these additions that I wish I had incorporated prior to freezing my Medium
+profile.
 
 Additionally, I added 2 essays I wrote in June 2025 which predate the
 MinimaLIST project but are a good window to my conception and misconception
