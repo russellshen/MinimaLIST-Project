@@ -385,10 +385,10 @@ Created by Russell Shen
   causing unexpected messy interactions. I will not get pressured into mixing my independent
   academic work with my school-based academic program again, due to the high likelihood of them trying
   to get a cut off of my independent research work, like a rent-seeker.
-- The message I will make the "finale" of this FAQ is that any good-faith engagement and feedback is
-  greatly appreciated and warranted, but only bad-faith actors and those who would violate the
-  IP and licensing terms of usage to claim credit for what they had no right to claim and make up
-  egregious lies and misconceptions to bolster their case are despised and should find another grift.
+- The message I will make the "finale" of this FAQ is that **any good-faith engagement and feedback is**
+  **greatly appreciated and warranted, but only bad-faith actors and those who would violate the**
+  **IP and licensing terms of usage to claim credit for what they had no right to claim and make up**
+  **egregious lies and misconceptions to bolster their case are despised and should find another grift.**
   - The marker of a good project is bad-faith engagement that tries to get their own slice of the pie
     since rent-seekers have a good nose for sniffing out what is lucrative and trying to exploit good
     hardworking trusting people who do not realize the value of defensive language and assume that
