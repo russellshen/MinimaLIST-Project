@@ -175,6 +175,17 @@ Created by Russell Shen
   language.
 - It represents the underlying semantics of all natural languages in Lisp S-expressions by enforcing
   an isomorphic relationship between them and X-bar syntax trees from scientific linguistics.
+  - Additionally, Lisp S-expressions are just a thin wrapper over lambda calculus, which makes it have
+    a very elegant formalistic grounding, just as X-bar syntax trees are grounded in Chomsky's universal
+    grammar.
+  - Lisp S-expressions for creating nested lists also exhibit the same recursive pair structure
+    as X-bar notation for creating natural language sentences.
+  - To have such a close mapping between formal computation, as lambda calculus is a Turing-equivalent
+    model to the Turing machine, and universal linguistics, as X-bar syntax trees help us eliminate
+    the arbitrary particularities and idiosyncrasies of human natural language, gives us amazing
+    relationships between how computer programs work and how human language works, providing the
+    formalistic foundation for the EngLISP intermediate language as a mapping from human language to
+    computer programs.
 - It will be used as a semantic representation to reduce LLM hallucination rates and as a Java bytecode
   kind of tool to aid translation between human languages by preserving their shared semantics.
 - **EngLISP** will be readable for English readers with just a few simple rules on the use of recursively
