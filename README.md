@@ -29,6 +29,48 @@ Created by Russell Shen
   this and the other is so steep, it is just a potential issue I wanted to explicitly address in this
   project-level FAQ on the off-chance that it might become relevant.
 
+**Who contributed to the novel content of this project and deserves to have credit for it?**
+- Everything that I include in this project is my own independent work, and every commit made is of
+  my own volition, such that I have not and do not envision that I ever will dilute the IP of this
+  GitHub repository by having any collaborators, using the proprietary resources of any educational
+  institution, or uploading any material from other people without citation.
+  - I will rather link readers to other people's works than to redundantly repeat what is already
+    found in the existing literature.
+  - Using specialized terminology is a cue to look it up and get an idea about it or a memory
+    refresher.
+- No one should have any IP claim to the novel content I host on this repository except for me.
+- Essentially, **I have complete IP over the entire contents of this GitHub repository by default**
+  unless I explicitly name-drop an author or something I found from previous authors, a name
+  that one could freely look up on the public Internet to confirm that I did not invent it and
+  there is no way that I could even reasonably claim to have invented it, or provide an explicit
+  citation that encloses a portion of the text of one of the files on this repository to demarcate
+  it as not my IP but not the rest of that file or this repository as a whole.
+- Hence, you can consider every statement and expression made in this project repository as a
+  public-facing representation of my own original creative contributions, not of that of any other
+  person or educational institution, and if there are any ideas found here that are not created or
+  authored by me independently and originally, then you can expect that they will be cited or at
+  least name-dropped if they are an old concept that has circulated or been academic consensus for
+  decades, like for instance, the "Curry-Howard Correspondence", which is not a matter for
+  debate, or otherwise found in the public Internet, especially if they involve empirical
+  research done years ago in the past that I have no reasonable means of conducting, due to
+  lacking a research laboratory, e.g., citing well-known drug pharmacodynamic and pharmacokinetic
+  profiles that are not controversial at all in the scholarly literature.
+  - To claim that phenelzine is a classical unselective irreversible MAOI whose PEH active metabolite
+    acts as a clinically-relevant GABA-T inhibitor to produce global elevation of 5HT, NE, DA, trace
+    amines, GABA, and GHB upon phenelzine use is a result reproduced by so many authors, studies, and
+    textbooks that there really is no singular non-arbitrary scientific article for me to cite.
+    - It is for better or worse the common knowledge of the field of CNS pharmacology.
+- That being said, I provided a CC BY-NC-ND 4.0 license for everyone else as an interface
+  for legally permissible use of this repository's content, which you can read at the bottom of
+  every README.md file in this repository. The restrictions and liberties should be very obvious
+  and reasonable.
+  - Some might see it as politically-compromising to stress private property rights so hard here,
+    failing to differentiate between the social and personal scopes, and the fact that private
+    property on the basis of individual work and private property on the basis of appropriating
+    unpaid labor of others are different social beasts.
+  - Yes, the former evolves into the latter, but on a historical long-run scale, not some person
+    and his peculiar project hosted on a GitHub repository.
+
 **What is this project?**
 - It is topically centered around an original heuristic I developed called the **MinimaLIST** method.
 - On the level of format, this was once conceived as a book project but now a series of interlinked
@@ -61,11 +103,29 @@ Created by Russell Shen
   arduous and winding but using the project structure correctly will mean that one will always eventually
   reach the Afterword article-module if they start at the Preface article-module.
 - The general **MinimaLIST** heuristic is an abstraction that takes on a more developed and domain-specific
-practical form for each of the 4 areas of interest in my **MinimaLIST** project.
+  practical form for each of the 4 areas of interest in my **MinimaLIST** project.
 - I treat it as a universal method but I will not prove that outside of the bounds of my 4 chosen
   academic fields intended to demonstrate its validity, such that you will have to infer from 4
   concrete particulars with a limited and demarcated scope to a universal abstract principle just like
   I did when formulating it.
+- I will link up article-modules between the 4 intellectual disciplines to show interdisciplinary connections,
+  such that the project will look like performing the **MinimaLIST** method on a variety of specific topics
+  of interest within these 4 scopes, and then linking the topics all together into a unified theoretical
+  doctrine.
+    - Such deep interdisciplinary connections will only be patently and commonsensically transparent after the
+      **MinimaLIST** heuristic has broken down the epistemological roadblocks preventing a clear view of
+      each topic and then illustrated the deep, integral, and pervasive network underlying each topic.
+    - Hence there are multiple levels of abstractness/concreteness or universality/particularity (or
+      generality/specificity, which are basically the same meaning but using different wording), but the
+      primary 2 levels are on the level of the **MinimaLIST** universal heuristic on a higher level of
+      generality, and on the level of the particular implementation of the **MinimaLIST** approach on
+      the immediate concrete problematic.
+    - The concrete-to-abstract and abstract-to-concrete basic movements are the means of representing
+      interdisciplinary and intradisciplinary interlinks within this academic project, respectively,
+      not to mention that concreteness and abstractness are relative such that each discipline has
+      multiple hierarchies of abstraction:
+        - One must not only know how to move from one layer to another but how to manipulate the
+          subject-matter on its own level of generality.
 - Notice that I have yet to define it formally but only mapped out its conceptual context, because that role
   is delegated to the Preface article-module.
 
@@ -150,6 +210,55 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
   that can convert natural language to **EngLISP** and back, nor even a cursory fully worked out
   mockup.
   - I have only provided hints to convince you to take this project seriously.
+- Because this idea is greatly intersecting with the current-day craze over LLMs, I pragmatically realized
+  that it was the most monetizable idea that I have come up with for this project in general, leading me
+  to try to elaborate it and make it a high priority.
+  - For LLM use, simply translate the natural language text corpus ahead of time into **EngLISP** format,
+    translate natural language user prompts on the fly into **EngLISP** format, let the LLM architecture
+    do what it originally was doing but on my semantic substrate, and translate the result in **EngLISP**
+    back into the user's chosen natural language.
+  - Alternatively, the user can choose to write their prompts and receive their outputs in **EngLISP**
+    directly.
+- **EngLISP** is not just a flagship of this project but my most highly-developed IP that I must reiterate
+  is a product of my intellectual labor and no one else's, neither another author nor any educational
+  institution, nor has another author nor an educational institution provided any information to me that
+  caused me to revise my **EngLISP** idea.
+- At the time that I created **EngLISP** as involving English, Lisp, an intermediate language, and a LLM
+  semantic substrate, I was not enrolled in any educational institution, nor was I conversing with any
+  other person about this idea (2025-08-01).
+  - Before that, I had a nebulous floating idea about English written in Lisp format and called it
+    "EngLISP" for a few years, but me taking that loose conception and turning it into an intermediate
+    language and a semantic substrate for LLMs dated to that aforementioned date in 2025. I still have
+    some unpublished writings of mine that talk about my previous conception of it but I at that time
+    nonetheless imagined it as a new kind of precise constructed language for causal human use, not
+    yet weaponized into an instrument in natural language processing to rid LLMs of their endemic
+    issues with hallucinations due to lack of real semantic grasp and only running text-completion
+    algorithms on the messiness of natural language corpuses instead of the cleanest most regularized
+    representation of natural language semantic content as possible.
+  - I never relinquished any part of my IP over it to any other person or institution.
+- The specific people and bodies of people whom I would expect to nefariously try to claim this IP of mine
+  are the reason for me to write so much unpleasant "legalese" self-defense language in this FAQ.
+  - We live not in a high-trust utopia but those who not only treat academic research as a zero-sum game but
+    are unable or unwilling to produce their own ideas.
+  - Academic institutions will try to assert their ownership stake over their students and faculty and only
+    through legal hedging and a paper trail can these demons be taken down to prevent them from skimming all
+    or part of the proceeds and credit from those who never used any of their resources for this project to
+    begin with. In particular, they would want evidence that I had developed this idea on my own prior to
+    being an official part of the university community.
+  - As for collaborative work on the graduate school level, it is too easy for the collaborators in name only
+    to assert ownership over the whole idea even if they did nothing to produce the idea nor to flesh it out.
+    One has to word the collaborative work defensively and cite one's own original public writings to make it
+    clear that only one of the "collaborators" produced the concept and the others are just there for entirely
+    uncreative peripheral work. Timestamps must show that the entire body of the concept existed prior to the
+    "collaborators" even knowing about the concept.
+  - Such levels of academic intrigue compel me to never again use my own original university-unrelated work in
+    university settings where the school itself or my colleagues can try to assert their ownership in my IP and
+    force a messy conflict in law that I will win because I have the timestamped paper trail, but obviously would
+    be a huge waste of my time and an unnecessary stressor.
+  - I hope that helps explain my legal self-defense language and absolves me of being "paranoid" or an "asshole"
+    when these two cases of IP violation occur to all kinds of nice trusting creative researchers living in this
+    zero-sum world where many other actors simply specialize in optimizing how to claim what was never theirs to
+    begin with.
 
 **Where did I previously base this project on the public Internet?**
 - I originally hosted this **MinimaLIST** project on the Medium platform but I realized that GitHub suits
@@ -267,6 +376,23 @@ practical form for each of the 4 areas of interest in my **MinimaLIST** project.
     also too socially stressful to keep up that active charade or lie, to artfully tiptoe around the
     elephants in the room and make up even more lies to keep the original charade straight, and then causing
     exponential explosion in the number of lies to maintain just to save my face or save your face.
+- I know that I used a lot of boring or unfun "legalese" phrases in this FAQ but this is not by whimsical
+  choice or trying to scare people off, but what I am forced to do in light of knowing about other people
+  being defrauded of their rightful IP by other people or institutions in the past or me suspecting other
+  moves possibly towards me in the present. If they do try to deceive me, I can show them a long paper
+  trail.
+- A lesson I have learned is that certain concurrent paths in life should be made parallel instead of
+  causing unexpected messy interactions. I will not get pressured into mixing my independent
+  academic work with my school-based academic program again, due to the high likelihood of them trying
+  to get a cut off of my independent research work, like a rent-seeker.
+- The message I will make the "finale" of this FAQ is that any good-faith engagement and feedback is
+  greatly appreciated and warranted, but only bad-faith actors and those who would violate the
+  IP and licensing terms of usage to claim credit for what they had no right to claim and make up
+  egregious lies and misconceptions to bolster their case are despised and should find another grift.
+  - The marker of a good project is bad-faith engagement that tries to get their own slice of the pie
+    since rent-seekers have a good nose for sniffing out what is lucrative and trying to exploit good
+    hardworking trusting people who do not realize the value of defensive language and assume that
+    everyone who is friendly to them is acting in their material interest.
 
 ## License
 
