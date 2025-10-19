@@ -1,6 +1,6 @@
 # MinimaLIST-Project [README.md]
 
-Created by Russell Shen
+> ## Created, maintained, and owned by Russell Shen — © 2025.
 
 ## The MinimaLIST Approach to Life and Understanding Reality (Brief FAQ):
 
