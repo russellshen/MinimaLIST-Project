@@ -85,7 +85,7 @@ Created by Russell Shen
     an emphasis on the pharmacodynamics (PD) and pharmacokinetics (PK) of psychoactive drugs, a stigmatized
     subject, so I usually just say "neuroscience" as a euphemism),
   - [The critique of political economy](./modules/critique-political-economy.md) (which is a euphemism for
-    Marxist theory), and
+    the theory of the two bearded guys facing in the same direction), and
   - [Life planning](./modules/life-planning.md) (which is a euphemism for the "self-help" book genre).
 - I aim to uncover truths that were infeasible or impossible to access before applying the **MinimaLIST**
   method to them.
@@ -111,7 +111,7 @@ Created by Russell Shen
 - I will link up article-modules between the 4 intellectual disciplines to show interdisciplinary connections,
   such that the project will look like performing the **MinimaLIST** method on a variety of specific topics
   of interest within these 4 scopes, and then linking the topics all together into a unified theoretical
-  doctrine.
+  doctrine that ends with the Afterword article-module.
     - Such deep interdisciplinary connections will only be patently and commonsensically transparent after the
       **MinimaLIST** heuristic has broken down the epistemological roadblocks preventing a clear view of
       each topic and then illustrated the deep, integral, and pervasive network underlying each topic.
@@ -136,6 +136,7 @@ Created by Russell Shen
   - Neuroscience &harr; my healthcare management,
   - The critique of political economy &harr; my socialization, and
   - Life planning &harr; my mundane life tasks and their management.
+- This project is therefore a self-referential picture of my life and the direction I aim to follow.
 - I understand that no one will care about these associations up front, possibly never, and if anyone
   would ever seek to dive into the process by which I came up with the **MinimaLIST** project, it would
   be after reading my forward-facing polished works.
@@ -325,8 +326,13 @@ Created by Russell Shen
 - I did not need to do much citation to do this project since the vast majority was original work, and
   the real life evidence I did built off on is all undisputed common knowledge, like the contents of
   Marx-Engels Collected Works, basic pharmacological facts, linguistic scientific consensus,
-  established proven formal scientific theorems, etc. I never needed to use others' contributions
-  which are currently considered cutting-edge or hotly disputed.
+  established proven formal scientific theorems, etc.
+  - Some of that is second-order in truth-context, like "Author X said Y", not "Y is true".
+  - I never needed to use others' contributions that are currently considered cutting-edge or hotly
+    disputed. Any such similarities are completely coincidental and unintended, and I am willing to add
+    citations as needed to restore academic honesty until everyone is satisfied, but only if I get
+    some cordial feedback and timestamps showing that the idea I am floating had already been produced
+    prior to my timestamp of when my idea came to fruition.
 
 **How will public engagement work?**
 - I will eventually implement [Sponsorships](https://www.github.com/sponsors/russellshen) and
@@ -392,10 +398,27 @@ Created by Russell Shen
   being defrauded of their rightful IP by other people or institutions in the past or me suspecting other
   moves possibly towards me in the present. If they do try to deceive me, I can show them a long paper
   trail.
+
+**Even though I am at a very early stage in my project, do I already hae any regrets?**
 - A lesson I have learned is that certain concurrent paths in life should be made parallel instead of
-  causing unexpected messy interactions. I will not get pressured into mixing my independent
-  academic work with my school-based academic program again, due to the high likelihood of them trying
-  to get a cut off of my independent research work, like a rent-seeker.
+  causing unexpected messy interactions.
+- I will not get pressured into mixing my independent academic work with my school-based academic program again,
+  due to the high likelihood of them trying to get a cut off of my independent research work, like a rent-seeker.
+- Compartmentalization is key, and if you recall the 4+4 modular structure of my life activity above, it allows me
+  to treat my personal creative ambitions as a parallel compartmentalized sphere detached from my concrete life
+  activities, like formal education, earning a living, healthcare, socializing, day-to-day tasks, and
+  planning, even though these creative interests emerged through me experiencing these concrete biographical
+  scenarios and learning through probabilistic practical action using my erstwhile intuitions as my
+  Bayesian priors.
+  - As a digression, my consciousness did not fall out of thin air but rather was contingently shaped
+    by my historical existence, largely outside of my direct conscious control.
+    - Only a very coincidental idiosyncratic combination of theoretical interests could have produced the
+      synergy that I aim to render here in presentable prose.
+    - Their "roots" spontaneously sprouted in my psyche as the least-developed precursory intuitions that
+      I instinctually reflected over and made more concrete and interconnected over each life challenge
+      that forced me to go from passive observer to active agent and then back.
+    - How I turned these spontaneous "primitive roots" into full-fledged integrated systems of thought
+      is documented in my "laboratory notebook work".
 - The message I will make the "finale" of this FAQ is that **any good-faith engagement and feedback is**
   **greatly appreciated and warranted, but only bad-faith actors and those who would violate the**
   **IP and licensing terms of usage to claim credit for what they had no right to claim and make up**
@@ -404,6 +427,14 @@ Created by Russell Shen
     since rent-seekers have a good nose for sniffing out what is lucrative and trying to exploit good
     hardworking trusting people who do not realize the value of defensive language and assume that
     everyone who is friendly to them is acting in their material interest.
+
+I hope you like what I have to offer and distribute the material as-is AND with full credit to me
+BUT NO commercial use of this project as-is AND NO derivatives. Constructive feedback would be fantastic
+and useful as well, and any questions can go to the the appropriate places linked for engagement, or my
+email address as well that is tied to this GitHub account.
+
+All the best,
+Russell Shen.
 
 ## License
 
