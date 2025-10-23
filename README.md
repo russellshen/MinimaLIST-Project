@@ -126,6 +126,12 @@
       multiple hierarchies of abstraction:
         - One must not only know how to move from one layer to another but how to manipulate the
           subject-matter on its own level of generality.
+    - It is possible that one article-module may become the formal foundational bedrock such that
+      all other topics become concentric rings within its scope, simply tracing concrete and specific
+      individually-demarcated scopes within the general **MinimaLIST** terrain.
+      - Another topic may recursively become a subspace of one of these concentric subspaces to further
+        make a portion of its even more concrete and specific, turning it into one of those hibachi onion
+        volcanoes.
 - Notice that I have yet to define it formally but only mapped out its conceptual context, because that role
   is delegated to the Preface article-module.
 
@@ -399,7 +405,7 @@
   moves possibly towards me in the present. If they do try to deceive me, I can show them a long paper
   trail.
 
-**Even though I am at a very early stage in my project, do I already hae any regrets?**
+**Even though I am at a very early stage in my project, do I already have any regrets?**
 - A lesson I have learned is that certain concurrent paths in life should be made parallel instead of
   causing unexpected messy interactions.
 - I will not get pressured into mixing my independent academic work with my school-based academic program again,
@@ -427,13 +433,23 @@
     since rent-seekers have a good nose for sniffing out what is lucrative and trying to exploit good
     hardworking trusting people who do not realize the value of defensive language and assume that
     everyone who is friendly to them is acting in their material interest.
+  - Since bad press and controversy is still better than no press, I will be quite tolerant and even open
+    to mocking and bad-faith distribution of this project's contents during the early phase in which the
+    project has yet to gain public traction.
+    - I can hold my tongue while the bad press works its magic to make more people aware of my project and
+      increase its relevance in the ranking algorithms which social media and search engine directories use
+      to determine which pieces of online content get recommended to others, which is the means for certain
+      highly-shared pieces of online content to snowball, grow exponentially, and even go viral.
+    - The more emotionally charged the bad press is, the greater chance of it propagating and accelerating
+      its own progress through Internet feedback loops, yet social media and search engine algorithms do not
+      know the difference.
 
 I hope you like what I have to offer and distribute the material as-is AND with full credit to me
 BUT NO commercial use of this project as-is AND NO derivatives. Constructive feedback would be fantastic
 and useful as well, and any questions can go to the the appropriate places linked for engagement, or my
 email address as well that is tied to this GitHub account.
 
-All the best,
+All the best,  
 Russell Shen.
 
 ## License
