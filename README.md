@@ -130,10 +130,12 @@
       all other topics become concentric rings within its scope, simply tracing concrete and specific
       individually-demarcated scopes within the general **MinimaLIST** terrain.
       - Another topic may recursively become a subspace of one of these concentric subspaces to further
-        make a portion of its even more concrete and specific, turning it into one of those hibachi onion
+        make a portion of it even more concrete and specific, turning it into one of those hibachi onion
         volcanoes.
-- Notice that I have yet to define it formally but only mapped out its conceptual context, because that role
-  is delegated to the Preface article-module.
+- Notice that within the scope of just this README.md file I have yet to define the **MinimaLIST** heuristic
+  formally but only mapped out its conceptual context, because that role is delegated to the Preface
+  article-module.
+  - I have unfinished attempts at formalization both published and unpublished elsewhere.
 
 **Why did I pick these 4 seemingly-disconnected areas instead of something else?**
 - These 4 areas of interest are not arbitrary or random but are exactly isomorphic to my own current life
