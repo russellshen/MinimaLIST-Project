@@ -442,7 +442,8 @@
       highly-shared pieces of online content to snowball, grow exponentially, and even go viral.
     - The more emotionally charged the bad press is, the greater chance of it propagating and accelerating
       its own progress through Internet feedback loops, yet social media and search engine algorithms do not
-      know the difference.
+      know the difference between intense negative online engagement and intense neutral or positive online
+      engagement.
 
 I hope you like what I have to offer and distribute the material as-is AND with full credit to me
 BUT NO commercial use of this project as-is AND NO derivatives. Constructive feedback would be fantastic
