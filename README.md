@@ -132,6 +132,11 @@
       - Another topic may recursively become a subspace of one of these concentric subspaces to further
         make a portion of it even more concrete and specific, turning it into one of those hibachi onion
         volcanoes.
+- I will ground the **MinimaLIST** approach to the formal sciences largely in terms of Bayesian reasonining
+  as the main engine of formalization, but these details may not be as crucial to understand for the more
+  qualitative domains in which we can do a lot of work without Bayes, yet the qualitative intuitive grasp
+  of forming hypotheses out of data, verifying hypotheses against data, and updating certainty of hypotheses
+  will be crucial. The embryonic cell-form of all agent-based reasoning is encoded in Bayes' theorem. 
 - Notice that within the scope of just this README.md file I have yet to define the **MinimaLIST** heuristic
   formally but only mapped out its conceptual context, because that role is delegated to the Preface
   article-module.
@@ -177,6 +182,13 @@
 - Consequently, both the /modules and /appendix folders will be regularly updated moving forward,
   with forward-facing presentable content in /modules and backward-facing investigational details
   in /appendix.
+- I will show, not just tell, how this **MinimaLIST** project itself is self-justifying and self-
+  documenting because it is the demonstration of the **MinimaLIST** procedure on itself, with
+  /appendix being the first movement from concrete to abstract, the **MinimaLIST** heuristic
+  being the minimally-sufficient set of abstractions, and /modules being the second movement
+  from abstract back to concrete to reconstitute it on a new basis in which all that is
+  external to the **MinimaLIST** heuristic is explained in its relation to the chosen
+  minimally-sufficient set of abstractions.
 
 **What is my flagship product that demonstrates the provisional soundness of my project?**
 - The flagship product of the **MinimaLIST** approach to the formal sciences is called **EngLISP**, an
