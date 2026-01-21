@@ -1,52 +1,105 @@
-# Modules [README.md]
+# MinimaLIST — Forward-Facing Modules
 
-## **TBD:**
-- Preface,
-- EngLISP as an intermediate language and its formal-scientific grounding,
-- Systematic critique of neoclassical economics from a Marxist angle,
-- A MinimaLIST 8-treatment approach to psychopharmacology,
-- 4+4 MinimaLIST approach to life planning,
-- Etc., including the Afterword at some point.
-  - Note that these are just the starting topics within the 4 theoretical domains, not a
-    complete covering of the full treatment I will give them with this project.
+This folder contains the **curated, presentable edition** of the MinimaLIST project.
 
-## **General principles:**
-- I will have the forward-facing part of the MinimaLIST project displayed here as a network of
-  interlinked article-modules, starting from a shared Preface explaining the general MinimaLIST
-  method that at the end diverges into four paths as the concrete particular application
-  of the MinimaLIST heuristic approach to each of my 4 intellectual domains.
-- There is also a shared Afterword because all paths converge on the same culminating insight.
-- These are not traditional linear book paths but the set of valid topological orderings of
-  the directed acyclic graph (DAG) formed by the interlinked article-modules.
-- Each article-module will state and link to its conceptual dependencies which must be understood to
-  grasp the current one.
-- Each definition, argument, and explanation will only be given once in the modular system, and if
-  it pops up again elsewhere in the DAG, it will provide a link back to the original source.
-- This way, I only need to update anything in just one place, saving time, preventing bugs, and
-  reducing redundancy that may cause misconceptions when different topological orderings of the DAG
-  give slightly different versions of the same idea.
-- The commit history on all public branches will be the backward-facing philological
-  documentation of the project's progress, but importantly, only the documentation since
-  I rebased the project onto GitHub on 2025-10-14, because the documentation prior to that
-  date is inside and/or will be inside the /appendix folder due to coming from a variety of
-  platforms, including Medium, Google Drive, and ChatGPT.
+It abstracts away the project’s developmental history (documented in `/appendix`) and presents only the
+minimal-sufficient structure required to understand the framework and its flagship application, **EngLISP**.
 
-# Starting Links to the Main Intended Traversals of the Modular MinimaLIST Project
+---
 
-## **Tentative:**
-- [Preface](./preface.md)
-- [The MinimaLIST Approach to Formal Sciences](./formal-sciences.md)
-- [The MinimaLIST Approach to Neuroscience](./neuroscience.md)
-- [The MinimaLIST Approach to the Critique of Political Economy](./critique-political-economy.md)
-- [The MinimaLIST Approach to Life Planning](./life-planning.md)
-- [Afterword](./afterword.md)
+## 1. The MinimaLIST Heuristic (Brief)
 
-## License
+MinimaLIST is a general reasoning heuristic:
 
-This repository is licensed under the
-**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International** (CC BY-NC-ND 4.0).
+> *Identify the smallest set of abstractions that preserves explanatory and productive power.*
 
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Rather than maximizing coverage or exhaustiveness, MinimaLIST prioritizes:
+- structural clarity,
+- conceptual economy,
+- and reuse across domains.
 
-© 2025 Russell Shen. You may share this work with attribution. No commercial use. No derivatives
-without explicit permission. See [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE) for details.
+The heuristic itself is treated as domain-agnostic; its concrete form depends on the problem space.
+
+---
+
+## 2. EngLISP: Canonical Application
+
+**EngLISP** is the primary concrete demonstration of MinimaLIST in action.
+
+### 2.1 The EngLISP Pipeline (Canonical)
+
+EngLISP is best understood as a pipeline:
+
+Natural Language
+→ X-bar syntax
+→ Lisp S-expressions
+→ LLVM IR
+
+Each stage removes ambiguity while preserving meaning:
+
+- **Natural Language**  
+  Expressive but underspecified human input.
+
+- **X-bar syntax**  
+  Linguistically grounded structural normalization.
+
+- **Lisp S-expressions**  
+  Canonical semantic representation; manipulable and analyzable.
+
+- **LLVM IR**  
+  Execution-oriented realization; makes operational semantics explicit.
+
+This pipeline is the *core explanatory object* of EngLISP.
+
+---
+
+### 2.2 Conceptual Note: Two Equivalent Models of Computation
+
+The Lisp → LLVM boundary highlights a classical result in computation theory:
+
+- Lambda-calculus-style transformational semantics
+- Turing-machine-style operational semantics
+
+are **formally equivalent**, despite their conceptual differences.
+
+EngLISP uses this equivalence pedagogically:
+- Lisp emphasizes symbolic transformation and semantic structure.
+- LLVM emphasizes control flow and execution.
+
+Both target the same underlying computational power.
+
+---
+
+## 3. Other MinimaLIST Projects (Secondary)
+
+In addition to EngLISP, MinimaLIST includes exploratory work on:
+- historical materialism simulation,
+- strategic operations modeling (“ComMerce”),
+- and constrained game systems (e.g. a 52-card lookup-based game).
+
+These projects are currently secondary and not part of the core presentation.
+
+---
+
+## 4. Relationship to `/appendix`
+
+The contents of `/modules` are **derived from**, but not identical to, the materials in `/appendix`.
+
+The appendix contains:
+- prior Medium essays,
+- philosophical explorations,
+- and early conceptual work.
+
+Those materials serve as intellectual provenance and transparency,
+while `/modules` represents the **current canonical presentation**.
+
+---
+
+## 5. Intended Audience
+
+This presentation is written to be legible to:
+- technically literate amateurs,
+- professional researchers and engineers,
+- and readers interested in language, computation, and formal reasoning.
+
+Depth is available by descent into `/appendix`, not by expanding the surface text.
