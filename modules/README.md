@@ -73,9 +73,11 @@ Both target the same underlying computational power.
 ## 3. Other MinimaLIST Projects (Secondary)
 
 In addition to EngLISP, MinimaLIST includes exploratory work on:
-- historical materialism simulation,
-- strategic operations modeling (“ComMerce”),
-- and constrained game systems (e.g. a 52-card lookup-based game).
+- Historical materialist simulation of political economy implicitly
+  critiquing neoclassical economics,
+- Minimally-sufficient treatment algorithms in psychopharmacology,
+- Minimally-sufficient military strategic operations modeling,
+- And constrained game systems (e.g. a 52-card casual strategic game).
 
 These projects are currently secondary and not part of the core presentation.
 
