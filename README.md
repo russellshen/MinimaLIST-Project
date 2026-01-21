@@ -26,7 +26,7 @@ Its canonical form is a **four-stage pipeline**:
 Natural Language
 → X-bar syntactic structure
 → Lisp S-expressions
-→ LLVM IR
+→ LLVM IR.
 
 This pipeline serves as the primary pedagogical and technical explanation of EngLISP.
 
@@ -52,11 +52,14 @@ EngLISP is presented in detail in the `/modules` folder.
   This is the recommended entry point for readers.
 
 - **`/appendix`**  
-  Backward-facing, read-only archive containing:
-  - previous Medium essays,
-  - philosophical and exploratory writings,
-  - and the intellectual genealogy of the project.  
-  These materials inform the forward-facing presentation but are not themselves edited.
+  Backward-facing, read-only archive containing sources of intellectual provenance that predate or exist outside this GitHub repository:
+  - Previous Medium essays,
+  - Philosophical and exploratory writings,
+  - Miscellaneous external notes,
+  - And the intellectual genealogy of the project, mostly consisting of ChatGPT logs.  
+  These materials inform the forward-facing presentation but are not themselves edited, nor were they intended for online publication at the time of their composition.
+  Historical versions of files tracked within this repository are preserved by GitHub’s version control; the appendix exists specifically to retain external sources that would not otherwise
+  be captured by the repository’s commit history.
 
 ---
 
@@ -78,7 +81,9 @@ Other experimental projects exist but are secondary to EngLISP.
 - If you want a **clean, current presentation**, start in `/modules`.
 - If you want **intellectual history and transparency**, consult `/appendix`.
 
-The two are intentionally separated.
+The two are intentionally separated, with the expectation that people would first want to develop intellectual interest in the MinimaLIST
+project through the exposition in `/modules` before venturing into `/appendix` to understand how the project evolved into its present-day
+state. 
 
 ---
 
