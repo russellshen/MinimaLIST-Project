@@ -82,7 +82,22 @@ The two are intentionally separated.
 
 ---
 
-## License
+## License and Commercial Use
 
-All original content in this repository is © 2025-2026 Russell Shen and released under  
-**Creative Commons BY-NC-ND 4.0**, unless otherwise noted.
+All original content in this repository is © 2025-2026 Russell Shen and is licensed under the  
+**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license, unless otherwise noted.
+
+This license permits non-commercial use with attribution and prohibits both commercial use and derivative works without explicit permission.
+
+---
+
+### Commercial and Proprietary Licensing
+
+Commercial use, proprietary use, or use in closed-source or revenue-generating projects is **not granted** under the CC BY-NC-ND 4.0 license.
+
+Parties interested in licensing this work for commercial or proprietary purposes may contact:
+
+**Russell Shen**  
+📧 *russellshen7@gmail.com*
+
+Licensing terms, scope, and compensation are subject to separate negotiation and are granted only by explicit written agreement.
