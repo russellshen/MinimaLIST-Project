@@ -3,7 +3,7 @@ NOTICE
 This repository contains original theoretical work by Russell Shen,
 including but not limited to the MinimaLIST approach and the EngLISP intermediate language.
 
-Copyright © 2025 Russell Shen. All rights reserved.
+Copyright © 2025-2026 Russell Shen. All rights reserved.
 
 License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 You may share this work with attribution. Derivative or commercial use requires explicit permission.
