@@ -96,7 +96,7 @@ This license permits non-commercial use with attribution and prohibits both comm
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-See [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE) for details.
+See [`LICENSE`](./LICENSE.md) and [`NOTICE`](./NOTICE.md) for details.
 
 ---
 
