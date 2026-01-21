@@ -103,3 +103,9 @@ This presentation is written to be legible to:
 - and readers interested in language, computation, and formal reasoning.
 
 Depth is available by descent into `/appendix`, not by expanding the surface text.
+
+---
+
+## 6. If This Project Interests You...
+
+Licensing details and commercial use terms are specified in the top-level README.
