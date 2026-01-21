@@ -33,7 +33,7 @@ EngLISP is best understood as a pipeline:
 Natural Language
 → X-bar syntax
 → Lisp S-expressions
-→ LLVM IR
+→ LLVM IR.
 
 Each stage removes ambiguity while preserving meaning:
 
