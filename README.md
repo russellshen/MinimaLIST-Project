@@ -94,6 +94,10 @@ All original content in this repository is © 2025-2026 Russell Shen and is lice
 
 This license permits non-commercial use with attribution and prohibits both commercial use and derivative works without explicit permission.
 
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+See [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE) for details.
+
 ---
 
 ### Commercial and Proprietary Licensing
