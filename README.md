@@ -5,10 +5,10 @@
 
 ## Overview
 
-**MinimaLIST** is a minimal-sufficient abstraction framework for organizing and reasoning across complex domains.  
+The **MinimaLIST** method is a minimal-sufficient abstraction framework for organizing and reasoning across complex domains.  
 Its guiding principle is simple:
 
-> *Use the smallest set of abstractions that remains expressive, rigorous, and generative.*
+> *For any field of inquiry, take as your starting point the minimally sufficient set of abstractions that remains expressive, rigorous, and generative.*
 
 This repository hosts both:
 - a **forward-facing, curated presentation** of the project, and
@@ -58,8 +58,12 @@ EngLISP is presented in detail in the `/modules` folder.
   - Miscellaneous external notes,
   - And the intellectual genealogy of the project, mostly consisting of ChatGPT logs.  
   These materials inform the forward-facing presentation but are not themselves edited, nor were they intended for online publication at the time of their composition.
+
   Historical versions of files tracked within this repository are preserved by GitHub’s version control; the appendix exists specifically to retain external sources that would not otherwise
   be captured by the repository’s commit history.
+
+  In particular, the original version of this top-level README.md file was far more detailed but too long and too opaque for the intended readership, so I revised it to be short and succinct.
+  If you want to see how that version of this file looked like originally, look through this commit history.
 
 ---
 
