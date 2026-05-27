@@ -1,4 +1,6 @@
-# MinimaLIST
+# MinimaLIST (Deprecated)
+
+- Instead check out: https://github.com/russellshen/The-EngLISP-Project
 
 > Created and maintained by Russell Shen — © 2025-2026  
 > Licensed under CC BY-NC-ND 4.0
